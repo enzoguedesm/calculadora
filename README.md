@@ -20,3 +20,22 @@ O objetivo é aplicar a lógica computacional, estruturação de dados estático
 2. Clone o repositório em sua máquina:
    ```bash
    git clone [https://github.com/enzoguedesm/calculadora.git]
+
+   Navegar até a pasta:
+
+Bash
+cd NOME QUE ESTÁ NO MEU REPOSITÓRIO (ATENÇÃO: SE MUDOU O NOME DA PASTA COLOQUE O NOME SALVO)
+Compilar o arquivo main.c:
+
+Bash
+gcc main.c -o programa
+Executar o programa:
+
+Windows:
+
+DOS
+programa.exe
+Linux/macOS:
+
+Bash
+./programa
